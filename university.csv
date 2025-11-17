@@ -1,0 +1,9 @@
+CollegeID,CollegeName,City,State,EstablishedYear,Tuition,Enrollment,Website
+1001,Summit University,Boulder,CO,1902,45000,12000,www.summit.edu
+1002,Ridgeview College,Portland,OR,1955,,22000,www.ridgeview.edu
+1003,Lakefront Tech,,CA,1981,38000,8500,
+1004,Metropolis State,Chicago,IL,1899,29500,,www.metrostate.edu
+1005,Avalon Arts Institute,New York,,2005,,3200,www.avalonarts.org
+1006,Pioneer Community College,Austin,TX,1973,8500,19500,www.pioneercc.tx
+1007,Northern Technical,Boston,MA,1968,32000,7800,
+1008,Crestwood University,,NY,1924,51000,9100,www.crestwood.edu

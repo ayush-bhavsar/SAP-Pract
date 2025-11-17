@@ -1,0 +1,51 @@
+UniversityID,UniversityName,City,State,Country,EstablishedYear,Type,StudentPopulation
+1,Springfield University,Springfield,IL,USA,1901,Public,12500
+2,Riverside College,Riverside,CA,USA,1895,Private,8200
+3,Maplewood Institute,Toronto,ON,Canada,1923,Public,21000
+4Kingston University,London,,UK,1899,Public,19000
+5,Summit Peak University,Denver,CO,USA,1950,Private,6500
+6,Bayside Technical College,Sydney,NSW,Australia,1968,Public,14200
+7,Université de la Lune,Paris,,France,1750,Public,28000
+8,Green Valley State,Burlington,VT,USA,1933,Public,9100
+9,Redwood University,Palo Alto,CA,USA,1980,Private,11500
+10,Northern Lights University,Oslo,,Norway,1947,Public,16000
+11,Ironwood College,Pittsburgh,PA,USA,1905,Private,7300
+12,Oceanview University,Miami,FL,USA,1965,Public,31000
+13,Mount Royal University,Calgary,AB,Canada,1910,Public,14500
+14,Kyoto Future University,Kyoto,,Japan,1988,Private,9000
+15,Berlin Institute of Arts,Berlin,,Germany,1920,Public,10500
+16,Lone Star University,Austin,TX,USA,1883,Public,45000
+17,Willow Creek Community College,Salem,OR,USA,1972,Public,5800
+18,Victoria University of Manchester,Manchester,,UK,1851,Public,38000
+19,Desert Rock University,Phoenix,AZ,USA,1958,Public,29500
+20,Lakefront University,Chicago,IL,USA,1890,Private,17000
+21,Trinity College Dublin,Dublin,,Ireland,1592,Public,18000
+22,Pacific Rim University,Vancouver,BC,Canada,1908,Public,42000
+23,Midlands University,Omaha,NE,USA,1940,Private,4500
+24,Coastal University of Singapore,Singapore,,Singapore,2005,Public,24000
+25,Evergreen State College,Olympia,WA,USA,1967,Public,4300
+26,Universidad del Sol,Madrid,,Spain,1499,Public,33000
+27,Gateway Technical Institute,St. Louis,MO,USA,1960,Public,11200
+28,Prairie View University,Winnipeg,MB,Canada,1877,Public,13000
+29,Alpine University of Switzerland,Geneva,,Switzerland,1559,Public,17500
+30,Harborview University,Boston,MA,USA,1863,Private,22000
+31,Central Metropolitan University,New York,NY,USA,1930,Public,35000
+32,Southern Cross University,Melbourne,VIC,Australia,1994,Public,15000
+33,University of Auckland,Auckland,,New Zealand,1883,Public,34000
+34,Stonewall College,Richmond,VA,USA,1830,Private,6800
+35,Quantum University of Delhi,Delhi,,India,1990,Private,12000
+36,Silverado University,Las Vegas,NV,USA,1957,Public,25000
+37,University of the North,Stockholm,,Sweden,1668,Public,20000
+38,Blue Ridge University,Asheville,NC,USA,1927,Public,8900
+39,Golden Gate University,San Francisco,CA,USA,1901,Private,5300
+40,Keystone University,Philadelphia,PA,USA,1855,Public,41000
+41,University of São Paulo,São Paulo,,Brazil,1934,Public,58000
+42,Heritage College,Quebec City,QC,Canada,1760,Private,3900
+43,University of Cape Town,Cape Town,,South Africa,1829,Public,26000
+44,Pinecrest University,Atlanta,GA,USA,1911,Private,15500
+45,Canyonlands University,Salt Lake City,UT,USA,1850,Public,32000
+46,River Thames College,Oxford,,UK,1209,Public,24000
+47,Seoul National University,Seoul,,South Korea,1946,Public,28500
+48,Midnight Sun University,Helsinki,,Finland,1640,Public,19500
+49,Delta State University,New Orleans,LA,USA,1924,Public,13000
+50,Twin Cities University,Minneapolis,MN,USA,1851,Public,51000
